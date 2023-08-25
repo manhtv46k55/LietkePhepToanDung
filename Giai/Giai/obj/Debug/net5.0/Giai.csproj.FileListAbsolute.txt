@@ -1,0 +1,16 @@
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.exe
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.deps.json
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.runtimeconfig.json
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.runtimeconfig.dev.json
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.dll
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\ref\Giai.dll
+D:\HOANGMANH\CONSOLE\Giai\Giai\bin\Debug\net5.0\Giai.pdb
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.csproj.AssemblyReference.cache
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.AssemblyInfoInputs.cache
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.AssemblyInfo.cs
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.csproj.CoreCompileInputs.cache
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.dll
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\ref\Giai.dll
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.pdb
+D:\HOANGMANH\CONSOLE\Giai\Giai\obj\Debug\net5.0\Giai.genruntimeconfig.cache
